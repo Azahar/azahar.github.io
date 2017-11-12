@@ -1,67 +1,135 @@
-#- 
-#  id: 3
-#  name: "Dawid"
-#  surname: "Ostrowski"
-#  company: "Google Poland"
-#  title: "Developer Relations Program Manager"
-#  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-#  thumbnailUrl: DawidOstrowski.jpg
-#  rockstar: true
-#  social: 
-#    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-#- 
-#  id: 4
-#  name: "Dmytro"
-#  surname: "Danylyk"
-#  company: "Lemberg Solutions Limited"
-#  title: "Android Developer"
-#  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-#  thumbnailUrl: DmytroDanylyk.jpg
-#  rockstar: true
-#  social: 
-#    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-#    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-#    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-#- 
-#  id: 5
-#  name: "Mateusz"
-#  surname: "Herych"
-#  company: "Base CRM, GDG Krakow"
-#  title: "Software Engineer"
-#  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-#  thumbnailUrl: MateuszHerych.jpg
-#  rockstar: true
-#  ribbon: 
-#    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-#  social: 
-#    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-#    - {name: "twitter", link: "https://twitter.com/mherych"}
-#- 
-#  id: 6
-#  name: "Roman"
-#  surname: "Mazur"
-#  company: "Stanfy, GDG Kyiv"
-#  title: "Head of Android/Java Unit"
-#  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-#  thumbnailUrl: RomanMazur.jpg
-#  rockstar: true
-#  ribbon:
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#  social: 
-#    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-#    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-#- 
-#  id: 7
-#  name: "Valentyn"
-#  surname: "Shybanov"
-#  company: "Twinfield, GDG Kyiv"
-#  title: "Software engineer/country manager"
-#  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-#  thumbnailUrl: ValentynShybanov.jpg
-#  rockstar: true
-#  ribbon:
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#  social: 
-#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-#    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 1
+  name: "Amanda"
+  surname: "Cavallaro Caruso"
+  company: "GDG Cloud London"
+  title: "Computer Scientist"
+  bio: '<p>Amanda is a computer scientist who can speak four languages and loves chatbots. The most inspiring geek book she has ever read is Ready Player One by Ernest Cline. During her free time she is an aikidoka, a volunteer organiser at GDG Cloud / WTM London, she loves to attend tech meetups and to work on her own personal projects to practice different programming languages. This is she singing in four languages https://goo.gl/iSfcjF her singing skills are rather disappointing, though. If she was a type of music she would definitely be a Power Metal song. Amanda is a spontaneous person who tries her best to help everyone around her, and when she likes the cause, she will not rest until she can help you. Sometimes she takes her life is at maximum speed such as the song Destruction Preventer and some other times she is complaining about the cold in a mood similar to the song The Misery. She is a big fan of the Finnish band Sonata Arctica, and these two songs are theirs by the way.</p>'
+  thumbnailUrl: Amanda.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/chibichibibr"}
+- 
+  id: 2
+  name: "Inés"
+  surname: "Huertas"
+  company: "Datatons"
+  title: "Data Scientist"
+  bio: '<p>Data Scientist y cofundadora de Datatons (www.datatons.com), Ex-Sysadmin y enamorada de los datos, desarrolla proyectos de analítica sobre plataforma Hadoop no solo enfocado en el tratamiento dato sino también en la parte del diseño dada su experiencia en la administración de sistemas Big Data. Actualmente participa también como coorganizadora del grupo de R-ladies Madrid y el meetup de Big Data Madrid intentando generar una comunidad donde todo el mundo que tenga interés pueda participar e iniciarse en el mundo de los datos.</p>'
+  thumbnailUrl: InesHuertas.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/quierodata"}
+- 
+  id: 3
+  name: "Hadi"
+  surname: "Hariri"
+  company: "JetBrains"
+  title: "VP of Developer Advocacy"
+  bio: '<p>Developer and creator of many things OSS, his passions includes Web Development and Software Architecture. Has authored a couple of books, a few courses and has been speaking at industry events for over 15 years. Host to Talking Kotlin, he works at JetBrains leading the Developer Advocacy team, and spends as much time as he can writing code.</p>'
+  thumbnailUrl: HadiHariri.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/hhariri"}
+
+- 
+  id: 4
+  name: "Raúl"
+  surname: "Jiménez"
+  company: "Byte Default"
+  title: "Google Developer Expert & Software Engineer"
+  bio: "<p>Raul is a software engineer passionate about JS frameworks, web technologies and cross-platform development. Since 2012 he's focused in Angular, HTML5 video and his open source project Videogular.
+<br>Raul works as a freelance front-end architect for companies around the world helping them to build high-performance web apps. In his spare time he's usually involved in local meetups, writing blog posts, speaking at conferences and contributing to open source projects.
+<br>He lives in Barcelona and is happy by default</p>"
+  thumbnailUrl: RaulJimenez.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/elecash"}
+- 
+  id: 5
+  name: "Jorge"
+  surname: "del Casar"
+  company: "Kairós"
+  title: "Head of Development"
+  bio: '<p>Jorge del Casar es Desarrollador Frontend con 15 años de experiencia y trabaja como Head of Development en Kairós Digital Solutions. Desde sus comienzos ha sido un entusiasta de los estándares y la accesibilidad. En 2009 empezó a interesarse en Javascript y desde hace más de 2 años desarrolla y defiende los Web Components y Polymer. Es Google Developer Expert en Web Technologies y miembro del Technical Advisory Group de Microsoft.</p>'
+  thumbnailUrl: JorgeCasar.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/JorgeCasar"}
+- 
+  id: 6
+  name: "Nerea"
+  surname: "Luis"
+  company: "Universidad Carlos III"
+  title: "PhD Studend"
+  bio: '<p>PhD student on Artificial Intelligence and Robotics. I belong to PLG research group at UC3M. I am a Women-techmaker/anita borg scholar since 2016. Interested in robots, automated planning and AI. I am the t3chfest cofounder.</p>'
+  thumbnailUrl: NereaLuis.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/sailormercury91"}
+- 
+  id: 7
+  name: "Alberto"
+  surname: "Gutiérrez"
+  company: "RedHat"
+  title: "Middleware Developer"
+  bio: '<p>Software Engineer in RedHat working in ManageIQ Project and Middleware with RoR, Go and angular. With more than 3 years of professional experience like SysAdmin (Hadoop certified, CloudForms) and Developer (Microservices in Go, OpenStack certified), working in opensource projects and organizer of GDGCloud Madrid.</p>'
+  thumbnailUrl: AlbertoGutierrez.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/aljesusg"}
+- 
+  id: 8
+  name: "Diego"
+  surname: "Rodríguez"
+  company: "Lynda.com"
+  title: "Diseñador"
+  bio: '<p>Diseñador de cosas analógicas o digitales siempre en movimiento. Promoviendo un entorno tecnológico en Bilbao a través de elComité. Además de escribiendo un libro sobre Nuevas Profesiones Digitales.</p>'
+  thumbnailUrl: DiegoRodriguez.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/arketipo"}
+- 
+  id: 9
+  name: "Sergi"
+  surname: "Martínez"
+  company: "Schibsted Spain"
+  title: "Android GDE and Developer"
+  bio: '<p>Android GDE and dev at Schibsted Spain. Loving to learn things and share knowledge.</p>'
+  thumbnailUrl: SergiMartinez.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/sergiandreplace"}
+- 
+  id: 10
+  name: "Olivier"
+  surname: "Leplus"
+  company: ""
+  title: "Web Developer & Former DevRel @ Google"
+  bio: '<p>Web developer & Traveler. My day to day my mission is to help developers create successful and quality apps. As a passionate web developer, I am always discovering and playing with new web technologies!. Formerly part of the Developer Relationship team at Google.</p>'
+  thumbnailUrl: OlivierLeplus.png
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/olivierleplus"}
+- 
+  id: 11
+  name: "Laura"
+  surname: "Morillo-Velarde"
+  company: "Seedtag"
+  title: "Backend engineer"
+  bio: '<p>Backend Engineer en seedtag. Ha peleado con muchas tecnologías desde C++ a Javascript y a a ratos lidia con servidores. En su tiempo libre además organiza meetups para el GDG Madrid y para grupos en los que promueve la mayor participación de las mujeres en tecnología (AgileGirls y Tech&Ladies).</p>'
+  thumbnailUrl: LauraMorillo.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/laura_morillo"}
+- 
+  id: 13
+  name: "Kike"
+  surname: "Navalon"
+  company: "BICG"
+  title: "Technical Product Manager & JS Developer"
+  bio: '<p>Ingeniero de teleco enamorado de las tecnologías web y cloud, con especial amor por las APIs, las automatizaciones y el real-time. Intenté hacer un doctorado pero me tiran más los proyectos reales y dinámicos. Dejé mi trabajo para empezar mi startup, que no fue exactamente como estaba planeada… Actualmente trabajo y me divierto en BICG y gasto lo que me queda de tiempo en meetups, hackathones y hablar de tecnología con el primero que pasa por la calle.</p>'
+  thumbnailUrl: KikeNavalon.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/garcianavalon"}

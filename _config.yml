@@ -9,7 +9,7 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "GDG DevFest Málaga '17"
+title: "DevFest Málaga '17"
 email: "gdgmalaga@gmail.com"
 description: "Welcome to the first edition of DevFest in Málaga: a yearly developers event in the warm Costa del Sol! December 1st, 2017"
 baseurl: ""
@@ -42,41 +42,40 @@ c4pUrl: "https://goo.gl/Z4w3cY"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {link: "https://medium.com/@gdgmalaga", text: "Blog"}
-# - {permalink: "/schedule/", text: "Schedule"}
-# - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Attending"}
  - {permalink: "/cod/", text: "Code of Conduct"}
-# - {permalink: "/hackathon/", text: "Hackathon"}
+
 bottomNavigationLinks:
- - {link: "https://goo.gl/Z4w3cY", text: "Become a speaker"}
+ #- {link: "https://goo.gl/Z4w3cY", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://goo.gl/Z4w3cY", text: "Become a speaker"}
+ #- {link: "https://goo.gl/Z4w3cY", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> '17"
+heroTitle: "DevFest <typeout> '17"
 eventDate: "December 1st, 2017"
 typeoutTextValues: '"", "Málaga"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://goo.gl/Z4w3cY", text: "Become a speaker"}
+ #- {link: "https://goo.gl/Z4w3cY", text: "Become a speaker"}
  - {permalink: "/#subscribe", text: "Get your ticket"}
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About DevFest Málaga"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "200", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "6", specialCharacter: "+", info: "hours", detail: "of technology"}
+ - {count: "17", specialCharacter: "+", info: "speakers", detail: "from Spain and beyond"}
+ - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "plus networking time"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -125,9 +124,9 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
+subscribeTitle: "Get notified to register"
 subscribeAction: "https://malagadevfest-5f472.firebaseio.com/email.json"
-subscribeInfo: "Registration will open November 1st. The number of tickets is limited. Stay tuned!"
+subscribeInfo: "Registration will open next November 13th. The number of tickets is limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
