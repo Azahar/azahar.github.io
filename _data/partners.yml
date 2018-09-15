@@ -2,5 +2,4 @@
   group: "Brought to you by"
   elements: 
     - {name: "GDG Málaga", description: "GDG Málaga", link: "https://www.meetup.com/es-ES/Google-Developer-Group-Malaga/", imageUrl: "gdg-malaga.png"}
-    - {name: "Betabeers MLG", description: "Betabeers MLG", link: "https://betabeers.com/community/betabeers-malaga-28/", imageUrl: "betabeers.png"}
-    - {name: "ETSI Informática UMA", description: "ETSI Informática UMA", link: "https://www.uma.es/ETSI-informatica", imageUrl: "etsii-uma.png"}
+    - {name: "Codespace", description: "Codespace", link: "https://www.codespaceacademy.com/", imageUrl: "codespace.png"}
