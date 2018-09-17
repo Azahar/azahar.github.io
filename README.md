@@ -1,7 +1,7 @@
-# Project Zeppelin / GDG DevFest 2014 site template
+# DevFest Málaga '17 Website
 
 ### About 
-Project Zeppelin allows you to setup awesome GDG DevFest site in 5 minutes. 
+Based on Project Zeppelin: a project that allows you to setup awesome GDG DevFest site in 5 minutes. Or perhaps a bit more.
 
 Project is built on top of [Jekyll](http://jekyllrb.com/) - simple, blog-aware, static site generator. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your website from GitHub’s servers for free. [Learn more about Jekyll](http://jekyllrb.com/).
 

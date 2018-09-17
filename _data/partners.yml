@@ -2,4 +2,5 @@
   group: "Brought to you by"
   elements: 
     - {name: "GDG Málaga", description: "GDG Málaga", link: "https://www.meetup.com/es-ES/Google-Developer-Group-Malaga/", imageUrl: "gdg-malaga.png"}
-    - {name: "Codespace", description: "Codespace", link: "https://www.codespaceacademy.com/", imageUrl: "https://www.codespaceacademy.com/assets/images/logos/logo_negativo.svg"}
+    - {name: "Codespace", description: "Codespace", link: "https://www.codespaceacademy.com/", imageUrl: "codespace.png"}
+

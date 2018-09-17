@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "DevFest Málaga '17"
 email: "gdgmalaga@gmail.com"
-description: "Welcome to the first edition of DevFest in Málaga: a yearly developers event in the warm Costa del Sol! December 1st, 2017"
+description: "Welcome to the first edition of DevFest in Málaga: a yearly developers event in the warm Costa del Sol! November 23rd, 2018"
 baseurl: ""
 url: "https://devfest.gdgmalaga.com"
 permalink: "/blog/:title"
@@ -56,13 +56,13 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "DevFest <typeout> '17"
-eventDate: "December 1st, 2017"
+heroTitle: "DevFest <typeout> '18"
+eventDate: "November 23rd, 2018"
 typeoutTextValues: '"", "Málaga"'
 typeoutFallback: "Season"
 heroButtons:
  #- {link: "https://goo.gl/Z4w3cY", text: "Become a speaker"}
- - {permalink: "/#subscribe", text: "Get your ticket"}
+ - {permalink: "/#tickets", text: "Get your ticket"}
 # About Block
 aboutTitle: "About DevFest Málaga"
 aboutBlock:
@@ -88,19 +88,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Escuela Técnica Superior de Ingeniería Informática"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "Blvd. Louis Pasteur, 25"
+eventLocationName: "Codespace Academy"
+eventLocationLink: "https://www.codespaceacademy.com/"
+eventStreetAddress: "Compositor Lehmberg Ruiz"
 eventAddressLocality: "Málaga"
 eventAddressLocalityRegion: "Spain"
-eventPostalCode: "29071"
+eventPostalCode: "29007"
 eventAddressCountry: "Spain"
-eventStartTime: "2017-12-01T15:00"
-eventDoorTime: "09:30"
-eventEndTime: "2017-12-01T21:00"
-eventPlaceCoordinates: "36.716775, -4.478202"
-mapCenterCoordinates: "36.716775, -4.478152"
-mapMobileCenterCoordinates: "36.716858, -4.477860"
+eventStartTime: "2018-11-23T15:00"
+eventDoorTime: "15:00"
+eventEndTime: "2018-11-23T21:00"
+eventPlaceCoordinates: "36.717924, -4.433717"
+mapCenterCoordinates: "36.717924, -4.433717"
+mapMobileCenterCoordinates: "36.717924, -4.433717"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -114,7 +114,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "DevFest17"
+twitterHashTag: "DevFest18"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -129,48 +129,24 @@ subscribeAction: "https://malagadevfest-5f472.firebaseio.com/email.json"
 subscribeInfo: "Registration will open next November 13th. The number of tickets is limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
+ticketsTitle: "Get your ticket"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes and lunch. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "7"
-  priceCurrency: "EUR"
-  ticketsNumber: "50"
-  ribbon: "-20%"
-  buyButtonLink: "https://devfest.gdgmalaga.com/"
-  buyButtonText: "Subscribe for updates!"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2017-11-01T10:00"
-  validThrough: "2017-11-07T23:59"
-  #soldOutText: "Sold Out"
- -
-  name: "Full Ticket Price"
-  price: "10"
+  name: "General Admission"
+  ticketContentList: ['Full-day entrance to the venue', 'Update about the events', 'Coffee breaks & refreshers']
+  price: "0"
   priceCurrency: "EUR"
   ticketsNumber: "100"
-  #ribbon: "-20%"
+  ribbon: "FREE!"
   featured: true
-  buyButtonLink: "https://devfest.gdgmalaga.com/"
-  buyButtonText: "Subscribe for updates!"
-  ticketContentList: ["Puede traer un aparatico", "Coffe break", "Pizza"]
-  validFrom: "2017-11-01T10:00"
-  validThrough: "2017-11-30T23:59"
-  disabled: true
+  buyButtonLink: "https://www.eventbrite.es/e/entradas-devfest-malaga-17-39707885354"
+  buyButtonText: "Get your ticket!"
+  validFrom: "2017-11-13T10:00"
+  validThrough: "2017-12-1T14:00"
+  disabled: false
   #soldOutText: "Sold Out"
- -
-  name: "Student"
-  price: "6"
-  priceCurrency: "EUR"
-  ticketsNumber: "20"
-  buyButtonLink: "https://devfest.gdgmalaga.com/"
-  buyButtonText: "https://devfest.gdgmalaga.com/"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2017-11-01T10:00"
-  validThrough: "2017-11-30T23:59"
-  soldOut: true
-  #soldOutText: "Sold Out"
+
 
 # Footer
 socialLinks:

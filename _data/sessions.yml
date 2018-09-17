@@ -39,6 +39,7 @@
   speakers: [8]
   language: es
   complexity: "Intermediate" 
+  presentation: "https://www.evernote.com/pub/arketipo/malaga"
 -
   id: 004
   title: "Some things you don’t know about Angular"
@@ -46,7 +47,8 @@
   subtype: keynote
   speakers: [4]
   language: es
-  complexity: "Intermediate" 
+  complexity: "Intermediate"
+  presentation: "http://slides.com/elecash/algunas-cosas-sobre-angular#/"
 -
   id: 005
   title: "Go from 0 to GO!"
@@ -63,12 +65,92 @@
   speakers: [1]
   language: es
   complexity: "Intermediate"
+  presentation: "https://docs.google.com/presentation/d/1cbkLxO7V6rhI8kojSOFCkOQ-UDg_8vS7XhhPfd9SPL8/edit#slide=id.p"
 -
   id: 007
   title: "¿Y si los robots nos pidieran ayuda?"
   description: "Mucho se ha especulado de la inteligencia artificial y los robots autónomos en los últimos años. ¿Pero en qué estado nos encontramos realmente? ¿Dónde están todos esos super robots que nos han prometido? ¿Por qué no podemos vivir sólo con los roomba y con un par de drones?... <br><br>Desde hace tres años me dedico a la investigación en planificación automática y robótica. En esta charla quiero contaros las principales vías de investigación en IA y robótica en las que se está trabajando en el mundo universitario y los avances de las empresas punteras en robótica.<br><br>Hablaré, entre otras cosas de un concepto muy interesante: la colaboración entre humanos y robots, conocida como Symbiotic Autonomy. Por cierto, la investigadora que ideó el concepto se llama Manuela Veloso y es la fundadora de la Robocup, la liga internacional de robots que juegan al fútbol! Seguro que has visto miles de videos en Youtube sobre esa liga :)<br><br>Por otro lado hablaré de proyectos de investigación vigentes en la Unión Europea y Estados Unidos sobre robótica, también sobre las competiciones anuales y sus objetivos a corto plazo y de los avances de empresas como Boston Dynamics, Aldebaran Robotics o Reem-PAL robotics."
   subtype: keynote
   speakers: [6]
+  language: es
+  complexity: "Intermediate"
+  presentation: "https://docs.google.com/presentation/d/1FAqE3p07DnwmzxCjhZYmTO7135znzq96M9P0qJN3LSU/edit?usp=sharing"
+-
+  id: 008
+  title: "This is your captain speaking, please put your phone in airplane mode"
+  description: "Do you wonder how to improve the user experience of your web users? Why not allowing them to interact with your application even when they don't have a reliable network connection?
+In this live coding, we will see how to set a complete offline-first strategy using new APIs like service worker, background-sync, the cache API and IndexedDB"
+  subtype: keynote
+  speakers: [10]
+  language: en
+  complexity: "Intermediate"
+  video: "//www.youtube.com/embed/vdsrw7lwvZY"
+  presentation: "http://slides.com/olivierleplus/offline-support-progressive-web-app-pwa-1/fullscreen#/"
+-
+  id: 009
+  title: "Offline-first sin despeinarte con Cloud Firestore"
+  description: "¿Harta de leer sobre los beneficios del offline-first y no saber ni por dónde empezar? En esta charla veremos la ultima novedad de Firebase: su nueva base de datos Cloud Firestore con la que ofrecer acceso offline a tus datos es pura automagia."
+  subtype: keynote
+  speakers: [13]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 010
+  title: "Enseña a hablar a tu app"
+  description: "Las interfaces conversaciones están en auge. Cada vez son más los que se suben al carro de la inteligencia artificial, asistentes y chatbots.<br>En esta charla aprenderemos cómo diseñar, desarrollar y distribuir una aplicación conversacional. Para ello usaremos la plataforma Actions on Google y nos ayudaremos de las herramientas Dialogflow y Cloud Functions para el desarrollo de la aplicación."
+  subtype: keynote
+  speakers: [5]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 011
+  title: "What's Flutter and why should you care?"
+  description: "Flutter is the new kid in town. Developed by Google, it's a new framework for creating mobile apps for Android and iOS. Let me convince you why it could be such a game changer and how exciting it is."
+  subtype: keynote
+  speakers: [9]
+  language: es
+  complexity: "Intermediate"
+  presentation: "https://www.slideshare.net/sergiandreplace/what-is-flutter-and-why-should-i-care-82802755"
+-
+  id: 012
+  title: "Arquitectura de Angular en el servidor: NestJS"
+  description: "Nest es un framework para construir aplicaciones web eficientes y escalares usando nodeJS el cual es construido sobre TypeScript con la arquitectura de diseño de software aplicada por Angular. Para ello se dispone de conceptos como controladores, modelos, middlewares, pipes, guardas, interceptores, inyección de dependencia, pruebas unitarias y e2e."
+  subtype: keynote
+  speakers: [15, 16]
+  language: es
+  complexity: "Intermediate"
+  presentation: "https://caballerog.github.io/devfestmalaga2017/slides/index.html"
+-
+  id: 013
+  title: "¡Refactoriza tu vida!"
+  description: "Mejorando nuestro código, desde variables hasta Clases, y aplicando la empatía."
+  subtype: keynote
+  speakers: [14]
+  language: es
+  complexity: "Intermediate"
+  presentation: "https://docs.google.com/presentation/d/1VJvrU4b4t6SZjElieOHbFxuN7BK9TxQd5VxUcUAsboA/"
+-
+  id: 014
+  title: "A (data) stream full of phish: Procesamiento de Eventos Complejos para detectar de amenazas de seguridad"
+  description: "Aunque el Procesamiento de Eventos Complejos no es una tecnología tan mainstream como Big Data o Machine Learning, está detras de muchos procesos analíticos en campos como las finanzas, el social media e IoT. Es más, hay otros campos perfectos para el análisis de grandes flujos heterogeneos de datos donde no se han explorados sus virtudes, y uno de ellos es la seguridad de la información.<br><br>Durante la charla veremos qué es eso del Procesamiento de Eventos Complejos, como podemos usarlo a través de una arquitectura Orientada a Servicios y Dirigida por Eventos y finalmente su aplicación al campo de la seguridad, dandole por el camino una vuelta de tuerca a problemas tan antiguos como el fraude online, entre otras amenazas."
+  subtype: keynote
+  speakers: [17]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 015
+  title: "GitHub: la única red social que necesitas"
+  description: "En esta charla cuento cómo sacar provecho a GitHub, cómo me ayudó a ser un mejor desarrollador y a conocer gente con las mismas inquietudes que yo."
+  subtype: keynote
+  speakers: [18]
+  language: es
+  complexity: "Intermediate"
+-
+  id: 016
+  title: "Desarrollo y despliegue continuo con microservicios"
+  description: "La complejidad del sistema que desarrollamos en seedtag nos ha llevado a evolucionar de un sistema monolítico a uno compuesto por microservicios. En esta charla hablaré de cómo hemos adaptado nuestro flujo de desarrollo para simplificar nuestros entornos y cómo hemos ido integrando todo para tener nuestro sistema de despliegue continuo con Jenkins y Kubernetes."
+  subtype: keynote
+  speakers: [11]
   language: es
   complexity: "Intermediate"
   #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"

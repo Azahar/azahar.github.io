@@ -1,7 +1,7 @@
 - 
   id: 1
   name: "Amanda"
-  surname: "Cavallaro Caruso"
+  surname: "Cavallaro"
   company: "GDG Cloud London"
   title: "Computer Scientist"
   bio: '<p>Amanda is a computer scientist who can speak four languages and loves chatbots. The most inspiring geek book she has ever read is Ready Player One by Ernest Cline. During her free time she is an aikidoka, a volunteer organiser at GDG Cloud / WTM London, she loves to attend tech meetups and to work on her own personal projects to practice different programming languages. This is she singing in four languages https://goo.gl/iSfcjF her singing skills are rather disappointing, though. If she was a type of music she would definitely be a Power Metal song. Amanda is a spontaneous person who tries her best to help everyone around her, and when she likes the cause, she will not rest until she can help you. Sometimes she takes her life is at maximum speed such as the song Destruction Preventer and some other times she is complaining about the cold in a mood similar to the song The Misery. She is a big fan of the Finnish band Sonata Arctica, and these two songs are theirs by the way.</p>'
@@ -49,7 +49,7 @@
   id: 5
   name: "Jorge"
   surname: "del Casar"
-  company: "Kairós"
+  company: "Kairós DS"
   title: "Head of Development"
   bio: '<p>Jorge del Casar es Desarrollador Frontend con 15 años de experiencia y trabaja como Head of Development en Kairós Digital Solutions. Desde sus comienzos ha sido un entusiasta de los estándares y la accesibilidad. En 2009 empezó a interesarse en Javascript y desde hace más de 2 años desarrolla y defiende los Web Components y Polymer. Es Google Developer Expert en Web Technologies y miembro del Technical Advisory Group de Microsoft.</p>'
   thumbnailUrl: JorgeCasar.png
@@ -60,7 +60,7 @@
   id: 6
   name: "Nerea"
   surname: "Luis"
-  company: "Universidad Carlos III"
+  company: "UC3M"
   title: "PhD Studend"
   bio: '<p>PhD student on Artificial Intelligence and Robotics. I belong to PLG research group at UC3M. I am a Women-techmaker/anita borg scholar since 2016. Interested in robots, automated planning and AI. I am the t3chfest cofounder.</p>'
   thumbnailUrl: NereaLuis.jpg
@@ -97,7 +97,7 @@
   title: "Android GDE and Developer"
   bio: '<p>Android GDE and dev at Schibsted Spain. Loving to learn things and share knowledge.</p>'
   thumbnailUrl: SergiMartinez.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/sergiandreplace"}
 - 
@@ -108,7 +108,7 @@
   title: "Web Developer & Former DevRel @ Google"
   bio: '<p>Web developer & Traveler. My day to day my mission is to help developers create successful and quality apps. As a passionate web developer, I am always discovering and playing with new web technologies!. Formerly part of the Developer Relationship team at Google.</p>'
   thumbnailUrl: OlivierLeplus.png
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/olivierleplus"}
 - 
@@ -130,6 +130,63 @@
   title: "Technical Product Manager & JS Developer"
   bio: '<p>Ingeniero de teleco enamorado de las tecnologías web y cloud, con especial amor por las APIs, las automatizaciones y el real-time. Intenté hacer un doctorado pero me tiran más los proyectos reales y dinámicos. Dejé mi trabajo para empezar mi startup, que no fue exactamente como estaba planeada… Actualmente trabajo y me divierto en BICG y gasto lo que me queda de tiempo en meetups, hackathones y hablar de tecnología con el primero que pasa por la calle.</p>'
   thumbnailUrl: KikeNavalon.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/garcianavalon"}
+- 
+  id: 14
+  name: "Elena"
+  surname: "Guzmán Blanco"
+  company: "Freelance"
+  title: "Developer"
+  bio: '<p>storyteller, worldbuilder, crossplatform developer (C# and Android), ttrpg player</p>'
+  thumbnailUrl: ElenaGuzman.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/Beelzenef_"}
+- 
+  id: 15
+  name: "Carlos"
+  surname: "Caballero"
+  company: "UMA"
+  title: "Doctor en informática "
+  bio: '<p>Ingeniero y Doctor en Informática por la Universidad de Málaga. Es profesor en la UOC y  la Junta de Andalucía en la familia profesional de Informática y Telecomunicaciones. Ha escrito varios libros docentes y más de una decena de artículos de investigación en inteligencia artificial y física solar.
+Amante de la Ingeniería Informática que trata de transmitir este amor por esta ciencia cada día desde las escuelas.</p>'
+  thumbnailUrl: CarlosCaballero.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/Carlillo"}
+    - {name: "github", link: "https://github.com/Caballerog"}
+- 
+  id: 16
+  name: "Antonio"
+  surname: "Villena"
+  company: "UMA"
+  title: "Estudiante"
+  bio: '<p>Titulado en Grado Superior de Desarrollo de Aplicaciones web y actualmente cursando el Grado de Ingeniería del Software. Apasionado de Angular, Typescript, nodeJS y Go. Apostando por las nuevas tecnologías y arquitecturas. En continuo aprendizaje.</p>'
+  thumbnailUrl: AntonioVillena.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/xxxtonixxx"}
+- 
+  id: 17
+  name: "Francisco"
+  surname: "López"
+  company: "Hispasec/Koodus"
+  title: "Systems Engineer "
+  bio: '<p>Francisco es un Ingeniero de Sistemas con 8 años de experiencia en el campo de la seguridad de la información. Interesado en procesos de DevOps, arquitectura de sistemas, Automatización y obtener métricas de todo lo posible. Actualmente ocupa el puesto de coordinador del area de investigación y desarrollo de Hispasec Sistemas y forma parte del equipo del proyecto Koodous, una plataforma colaborativa de análisis de malware para Android, seleccionada para el Black Hat Arsenal (USA y EU) y el programa Campus Exchange: CyberSecurity organizado por Google en Tel-Aviv.</p>'
+  thumbnailUrl: PacoLopez.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/zisk0"}
+- 
+  id: 18
+  name: "Israel"
+  surname: "Blancas"
+  company: "Real Time Innovations"
+  title: "Software engineer"
+  bio: '<p>Software Engineer at @RealTimeInnov. Lead organizer at Google Developer Group @GDGgranada</p>'
+  thumbnailUrl: IsraelBlancas.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/iblancasa"}
