@@ -142,7 +142,7 @@ ticketsOffers:
   featured: true
   buyButtonLink: "#"
   buyButtonText: "Soon!"
-  validFrom: "2018-10-15T10:00"
+  validFrom: "2018-10-25T10:00"
   validThrough: "2018-11-23T14:00"
   disabled: true
   #soldOutText: "Sold Out"
