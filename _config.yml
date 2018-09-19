@@ -9,9 +9,9 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "DevFest Málaga '17"
+title: "DevFest Málaga '18"
 email: "gdgmalaga@gmail.com"
-description: "Welcome to the first edition of DevFest in Málaga: a yearly developers event in the warm Costa del Sol! November 23rd, 2018"
+description: "Welcome to the second edition of DevFest in Málaga: a yearly developers event in the warm Costa del Sol! November 23rd, 2018"
 baseurl: ""
 url: "https://devfest.gdgmalaga.com"
 permalink: "/blog/:title"
@@ -83,8 +83,8 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Last edition rockstar speakers"
+rockstarSpeakersButtonText: "See all past speakers"
 
 # Location Block
 locationBlockTitle: "Location"
@@ -126,7 +126,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Get notified to register"
 subscribeAction: "https://malagadevfest-5f472.firebaseio.com/email.json"
-subscribeInfo: "Registration will open next November 13th. The number of tickets is limited. Stay tuned!"
+subscribeInfo: "Registration will open soon. The number of tickets is limited, so stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Get your ticket"
@@ -137,8 +137,8 @@ ticketsOffers:
   ticketContentList: ['Full-day entrance to the venue', 'Update about the events', 'Coffee breaks & refreshers']
   price: "0"
   priceCurrency: "EUR"
-  ticketsNumber: "100"
-  ribbon: "FREE!"
+  ticketsNumber: "150"
+  ribbon: "5€ deposit"
   featured: true
   buyButtonLink: "https://www.eventbrite.es/e/entradas-devfest-malaga-17-39707885354"
   buyButtonText: "Get your ticket!"
