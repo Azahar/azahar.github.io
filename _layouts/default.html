@@ -48,11 +48,11 @@ layout: compress
     {% if page.permalink == '/' or page.permalink == '/hackathon/' %}
     <script>
         if ($(window).width() > 767) {
-            document.write()
-        } 
+            document.write('  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBikeVSMujydKlDAlmdasl8xzlBcX5Lwm8" type="text/javascript"><\/script>')
+        }
+     
     </script>
     {% elsif page.permalink == '/logistics/' %}
-        
         <script type="text/javascript">
             var autoDirectionEnabled = {% if site.logisticsMapAutoDirections %} true {% else %} false {% endif %};
         </script>
