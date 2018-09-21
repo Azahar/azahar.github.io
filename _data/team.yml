@@ -1,76 +1,5 @@
 -
   id: 0
-  name: "Azahar"
-  surname: "Zafra"
-  title: "Software Engineer & SysAdmin @ CGI"
-  thumbnailUrl: AzaharZafra.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/azaharzafra"}
-    - {name: "twitter", link: "https://twitter.com/azaharvyb"}
-    - {name: "github", link: "https://github.com/Azahar"}
--
-  id: 1
-  name: "Rubén"
-  surname: "Ruíz"
-  title: "DevOps & Linux lover"
-  thumbnailUrl: RubenRuiz.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/rub%C3%A9n-ruiz-nieto-4375b865/"}
-    - {name: "twitter", link: "https://twitter.com/2Ru15"}
--
-  id: 2
-  name: "Francisco"
-  surname: "Baena"
-  title: "Web Developer & Community Specialist"
-  thumbnailUrl: FranBaena.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "linkedin", link: "https://es.linkedin.com/in/baenans"}
-    - {name: "twitter", link: "https://twitter.com/baenans"}
-    - {name: "github", link: "https://github.com/baenans"}
-    - {name: "site", link: "https://medium.com/@baenans"}
--
-  id: 4
-  name: "David"
-  surname: "Ponce"
-  title: "Student @ University of Málaga"
-  thumbnailUrl: DavidPonce.jpg
-  team: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/ZolastroDavid"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/antonio-david-ponce-mart%C3%ADnez-19bbb2143/"}
-    - {name: "github", link: "https://github.com/zolastro"}
--
-  id: 5
-  name: "Cristina"
-  surname: "Díaz"
-  title: "Student @ University of Málaga"
-  thumbnailUrl: CristinaDiaz.jpg
-  team: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/cdg-97/"}
-    - {name: "twitter", link: "https://twitter.com/ladynightmare_2"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
--
-  id: 6
-  name: "Javier"
-  surname: "Ramirez"
-  title: "Communications @ Coonic"
-  thumbnailUrl: JaviRamirez.jpg
-  team: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/javiramirezcapilla/"}
-    - {name: "twitter", link: "https://twitter.com/xlramirez"}
--
-  id: 7
   name: "José"
   surname: "Palacios"
   title: "Full-Stack Web Developer"
@@ -79,3 +8,47 @@
   social:
     - {name: "github", link: "https://github.com/JoseAntpr"}
     - {name: "twitter", link: "https://twitter.com/JoseAntPR"}
+-
+  id: 1
+  name: "David"
+  surname: "Ponce"
+  title: "Software Developer & Student @ UMA"
+  thumbnailUrl: DavidPonce.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ZolastroDavid"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/antonio-david-ponce-mart%C3%ADnez-19bbb2143/"}
+    - {name: "github", link: "https://github.com/zolastro"}
+#-
+#  id: 2
+#  name: "Alejandro"
+#  surname: "Garau"
+#  title: "Student @ UMA"
+#  thumbnailUrl: AlejandroGarau.jpg
+#  team: true
+#  social:
+#    - {name: "github", link: "https://github.com/Alkesst"}
+#    - {name: "twitter", link: "https://twitter.com/alkesstt"}
+-
+  id: 3
+  name: "Daniel"
+  surname: "Montero"
+  title: "Student @ UMA"
+  thumbnailUrl: DanielMontero.jpeg
+  team: true
+  social:
+    - {name: "github", link: "https://github.com/danimonarc"}
+    - {name: "twitter", link: "https://twitter.com/loltrol98"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jos%C3%A9-daniel-montero-archilla-a10131161/"}
+-
+  id: 3
+  name: "Amin"
+  surname: "Chaloukh"
+  title: "Student @ UMA"
+  thumbnailUrl: AminChaloukh.jpeg
+  team: true
+  social:
+    - {name: "github", link: "https://github.com/ACHELM"}
+    - {name: "twitter", link: "https://twitter.com/@ACHELM98"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/amin-chaloukh-el-mohammadi/"}
+
