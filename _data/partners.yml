@@ -1,4 +1,9 @@
 - 
+  group: "Gold sponsor"
+  color: "gold"
+  elements: 
+    - {name: "Panobloc", description: "Panobloc", link: "https://www.comprapanobloc.com/", imageUrl: "Panobloc.png"}
+- 
   group: "Brought to you by"
   elements: 
     - {name: "GDG Málaga", description: "GDG Málaga", link: "https://www.meetup.com/es-ES/Google-Developer-Group-Malaga/", imageUrl: "gdg-malaga.png"}
