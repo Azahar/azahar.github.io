@@ -47,6 +47,7 @@ navigationLinks:
  - {link: "https://medium.com/@gdgmalaga", text: "Blog"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Attending"}
+ - {permalink: "/panobloc/", text: "Panobloc"}
  - {permalink: "/cod/", text: "Code of Conduct"}
 
 bottomNavigationLinks:
