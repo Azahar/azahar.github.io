@@ -1,6 +1,6 @@
 - 
-  group: "Gold sponsor"
-  color: "gold"
+  group: "Silver sponsor"
+  color: "silver"
   elements: 
     - {name: "Panobloc", description: "Panobloc", link: "https://www.comprapanobloc.com/", imageUrl: "Panobloc.png"}
 - 
