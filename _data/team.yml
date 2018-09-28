@@ -41,7 +41,7 @@
     - {name: "twitter", link: "https://twitter.com/loltrol98"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/jos%C3%A9-daniel-montero-archilla-a10131161/"}
 -
-  id: 3
+  id: 4
   name: "Amin"
   surname: "Chaloukh"
   title: "Student @ UMA"
@@ -51,4 +51,15 @@
     - {name: "github", link: "https://github.com/ACHELM"}
     - {name: "twitter", link: "https://twitter.com/@ACHELM98"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/amin-chaloukh-el-mohammadi/"}
+
+-
+  id: 5
+  name: "Pedro"
+  surname: "Camacho"
+  title: "Software Architect"
+  thumbnailUrl: PedroCamacho.jpeg
+  team: true
+  social:
+    - {name: "github", link: "https://github.com/PedroJFernandez5"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pedrofernandezcamacho"}
 
