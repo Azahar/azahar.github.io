@@ -1,4 +1,14 @@
 - 
+  group: "Platinum sponsor"
+  color: "#E5E4E2"
+  elements: 
+    - {name: "Google", description: "Google", link: "https://www.google.org/", imageUrl: "google.png"}
+- 
+  group: "Gold sponsor"
+  color: "gold"
+  elements: 
+    - {name: "Ingenia", description: "Ingenia", link: "https://www.ingenia.es/es", imageUrl: "ingenia.png"}
+- 
   group: "Silver sponsor"
   color: "silver"
   elements: 
