@@ -48,6 +48,7 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Attending"}
  - {permalink: "/panobloc/", text: "Panobloc"}
+ - {permalink: "/the-workshop/", text: "The Workshop"}
  - {permalink: "/cod/", text: "Code of Conduct"}
 
 bottomNavigationLinks:

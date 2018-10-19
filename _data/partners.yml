@@ -3,6 +3,7 @@
   color: "#E5E4E2"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.org/", imageUrl: "google.png"}
+    - {name: "The Workshop", description: "The Workshop", link: "https://theworkshop.com/", imageUrl: "workshop.svg"}
 - 
   group: "Gold sponsor"
   color: "gold"
