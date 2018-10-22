@@ -9,6 +9,7 @@
   color: "gold"
   elements: 
     - {name: "Ingenia", description: "Ingenia", link: "https://www.ingenia.es/es", imageUrl: "ingenia.png"}
+    - {name: "Rindus", description: "Rindus", link: "https://www.rindus.de/", imageUrl: "rindus.png"}
 - 
   group: "Silver sponsor"
   color: "silver"
