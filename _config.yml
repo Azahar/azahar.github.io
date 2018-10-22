@@ -131,22 +131,22 @@ subscribeAction: "https://malagadevfest-5f472.firebaseio.com/email.json"
 subscribeInfo: "Registration will open soon. The number of tickets is limited, so stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Tickets soon available!"
+ticketsTitle: "Get your tickets"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes and lunch. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
   name: "General Admission"
   ticketContentList: ['Full-day entrance to the venue', 'Update about the events', 'Coffee breaks & refreshers']
-  price: "5"
-  priceCurrency: "EUR deposit"
+  price: "Free"
+  priceCurrency: ""
   ticketsNumber: "150"
-  ribbon: "5€ deposit"
+  ribbon: "Free"
   featured: true
-  buyButtonLink: "#"
-  buyButtonText: "Soon!"
-  validFrom: "2018-10-25T10:00"
+  buyButtonLink: "https://www.eventbrite.es/e/entradas-devfest-malaga18-51653165007"
+  buyButtonText: "Get your tickets"
+  validFrom: "2018-10-22T10:00"
   validThrough: "2018-11-23T14:00"
-  disabled: true
+  disabled: false
   #soldOutText: "Sold Out"
 
 
