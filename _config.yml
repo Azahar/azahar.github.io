@@ -139,7 +139,7 @@ ticketsOffers:
   ticketContentList: ['Full-day entrance to the venue', 'Update about the events', 'Coffee breaks & refreshers']
   price: "Free"
   priceCurrency: ""
-  ticketsNumber: "150"
+  ticketsNumber: "90"
   ribbon: "Free"
   featured: true
   buyButtonLink: "https://www.eventbrite.es/e/entradas-devfest-malaga18-51653165007"
