@@ -1,11 +1,11 @@
 -
-  id: 307
+  id: 113
   title: "Coffee Break"
   place: "Hall"
   service: true
   description: "The best time to catch up with other speakers and attendees!"
 -
-  id: 101
+  id: 114
   title: "To be announced."
   place: "UMA"
   service: true
@@ -15,7 +15,12 @@
   place: "Amphytheatre"
   service: true
 -
-  id: 001
+  id: 112
+  title: "Sponsors"
+  place: "Amphytheatre"
+  service: true
+-
+  id: 103
   title: "Neataptic, machine learning al alcance de todos"
   description: "Veremos como usar una librería de Machine Learning escrita en Javascript, usable tanto en NodeJS como en Browser. Veremos tanto ejemplos existentes, como alguno creado para la ponencia. La librería, mediante algoritmos genéticos, es capaz de encontrar una topología efectiva para nuestra red neuronal, no necesitando nosotros investigar cual es la estructura más acertada para nuestro problema en concreto."
   subtype: workshop
@@ -30,6 +35,8 @@
   speakers: [2]
   language: es
   complexity: "Intermediate"
+  place: "Amphytheatre"
+
 -
   id: 003
   title: "Hands on Blockchain"
@@ -37,33 +44,38 @@
   subtype: keynote
   speakers: [3]
   language: es
-  complexity: "Beginner" 
+  complexity: "Beginner"
+  place: "Amphytheatre"
+
 -
-  id: 004
+  id: 202
   title: "Desarrollo de aplicaciones móviles con Flutter"
   description: "En este taller vamos a ver las características principales de este framework de desarrollo de aplicaciones móviles y desarrollaremos un ejemplo práctico que muestre el uso de los componentes básicos del Framework."
   subtype: workshop
   speakers: [4]
   language: es
   complexity: "Beginner"
+  
 -
-  id: 005
+  id: 001
   title: "Victoria la Malagueña: El chatbot desarrollado con Dialogflow y NodeJS con el que hablar sobre Málaga"
   subtype: keynote
   speakers: [5]
   language: es
   complexity: "Beginner" 
   description: "Victoria la Malagueña es un chatbot desarrollado con la tecnología de Google Dialogflow con el que se puede dialogar sobre el Asistente de Google y Facebook. Da información de utilidad para ciudadanos y turistas utilizando principalmente información disponible en datosabiertos. En la charla se puede contar la evolución del chatbot y dar algunas ideas del proceso de desarrollo y de publicación en el Asistente de Google."
+  place: "Amphytheatre"
 -
-  id: 006
+  id: 004
   title: "7 tips de producto que te harán mejor desarrollador"
   description: "Entender cómo una idea se convierte en un producto, y en qué punto interviene la tecnología es fundamental para poder crear algo valioso, reutilizable, evolucionable y funcional. Con siete sencillos consejos vas a conseguir que el software que desarrollas pase de bueno a excelente."
   subtype: keynote
   speakers: [6]
   language: es
   complexity: "Beginner"
+  place: "Amphytheatre"
 -
-  id: 007
+  id: 102
   title: "Creando videojuegos con Godot"  
   description: "Introducción al motor de videojuegos, Godot Engine, para empezar a soñar nuevas aventuras e historias 2D o 3D en clave de open source."
   subtype: workshop
@@ -71,31 +83,34 @@
   language: es
   complexity: "Beginner"
 -
-  id: 008
+  id: 006
   title: "Why developers are a essential part of our product design process"
   description: "When designers and developers work together, magic happens. Developers at Ontruck don't just build stuff based on design specs, they are involved in the design process from the very beginning. And you know what? They love it. In this talk I will share the lessons we've learned after two successful years building products this way.  "
   subtype: keynote
   speakers: [8]
   language: es
   complexity: "Beginner"
+  place: "Amphytheatre"
 -
-  id: 009
+  id: 203
   title: "Realidad Aumentada: desde la tecnología a la calidad de contenidos"
   description: "Cada día aparecen más dispositivos hardware y plataformas software para crear proyectos de realidad aumentada, virtual y mixta. Estamos experimentando un cambio espectacular en la industria entonces, es un buen momento para desarrollar con esta tecnología, ¿no? Esta conferencia explora diferentes plataformas y herramientas para crear aplicaciones de realidad aumentada. Además quiere concienciar de la importancia de realizarlo desde un punto de vista de experiencia de usuario, poniendo como foco a las personas, y en la importancia de los contenidos."
-  subtype: keynote
+  subtype: workshop
   speakers: [9]
   language: es
   complexity: "Beginner"
+  place: "Amphytheatre"
 -
-  id: 010
+  id: 005
   title: "Dando significado a la World wide web.¿Cómo desarrollar para todas las personas?"
   description: 'Cuando desarrollamos un sitio web, uno de nuestros objetivos es que la experiencia de uso sea lo más satisfacoria posible, y los visitantes puedan conectarse de forma cómoda desde todo tipo de dispositivos. Pero ¿realmente estamos consiguiendo llegar a todo el mundo?<br>Al ahblar de accesibilidad en el desarrollo, casi siempre es para atragantar al desarrollador con un montón de reglas y recomendaciones abstractas y aburridas que a veces se le obliga a cumplir por no se qué dichosa ley... Pero sin entender el porqué y la importancia real, es algo que nunca acabará de calar en el ADN de los desarrolladores. ¿por qué ha de cumplirse? ¿a quién ayuda? ¿por qué es importante hacerlo así?<br>En esta charla os responderé a todas estas preguntas, y os proporcionaré las herramientas y las referencias necesarias no solo para que podáis abordar de forma efectiva un desarrollo accesible, sino también para que podáis comprobar si lo habéis hecho bien, utilizando las aplicaciones que usan los distintos perfiles de discapacidad.<br>«El poder de la web reside en su universalidad. El acceso para todos independientemente de su discapacidad es un aspecto fundamental» Tim Berners-Lee, director del W3C e inventor de la World Wide Web.<br>¿Os apetece ayudara construir una World Wide Web realmente inclusiva?'
   subtype: keynote
   speakers: [10]
   language: es
   complexity: "Intermediate"
+  place: "Amphytheatre"
 -
-  id: 011
+  id: 101
   title: "Android, desde el lado del mal"
   description: "Exposición de una aplicación Android creada con servicios y frameworks proporcionados por Microsoft. Concretamente, enseñaré código real de producción de una aplicación Android hecha con Xamarin y con un backend funcionando en Azure."
   subtype: workshop
@@ -103,7 +118,7 @@
   language: es
   complexity: "Intermediate"
 -
-  id: 012
+  id: 201
   title: "A strongly typed martini. Shaken, not stirred"
   description: "Luckily I asked for it shaken. But what if we didn't??? How can we make sure that we get our refined drink? How can we prove that property? In a beginner-friendly way, we introduce you to LiquidHaskell (LH), a Haskell extension that allows us to distill our types to assure stronger guarantees of our code at compile-time. We start with a quick, hands-on approach to Haskell, introducing the basics so no one gets lost. Then, we deep dive into LiquidHaskell to get our hands dirty. Through plenty of tiny exercises, we see what refinement types are, how they can help us write safer code and prove that we get the drink we ordered."
   subtype: workshop
@@ -111,10 +126,11 @@
   language: es
   complexity: "Beginner"
 -
-  id: 013
+  id: 204
   title: "Innovación en ciberseguridad, betatesters forzosos de la tecnología emergente"
   description: "Trabajar en innovación, no solo implica ser de los primeros en trabajar con las tecnologías emergentes, sino ser capaz de diseccionarlas y exprimirlas hasta el punto en que es posible contribuir a su desarrollo e incluso explotarlas para construir a su vez otras nuevas. Con frecuencia, muchas de estas tecnologías acabarán en el cajón del olvido y con otras, la única documentación disponible, será la procedente de nuestro trabajo de reversing. En cualquier caso, el resultado, siempre es el mismo, aprendizaje y diversion asegurada. En esta charla se hará un breve repaso a algunas de las últimas tecnologías en materia de ciberseguridad y alguna de anécdotas y curiosidades surgidas durante su investigación."
   subtype: keynote
   speakers: [13]
   language: es
-  complexity: "Beginner"
+  complexity: "Beginner"  
+  place: "Amphytheatre"
