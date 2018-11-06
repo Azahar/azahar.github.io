@@ -16,142 +16,105 @@
   service: true
 -
   id: 001
-  title: "Functional Programming with Kotlin"
-  description: "In this talk we'll explain the basics of functional programming, where it fits in with the Object Orientation paradigm and how we can use functional programming in our every day work. We’ll cover important concepts functional programming such as: Lambdas, Higher Order Functions, Partial Functions, Currying, Monads, Memoization and see how we can apply these in a series of functional patterns to cut down our codebase and at the same time make sure we keep it maintainable."
-  subtype: keynote
-  speakers: [3]
+  title: "Neataptic, machine learning al alcance de todos"
+  description: "Veremos como usar una librería de Machine Learning escrita en Javascript, usable tanto en NodeJS como en Browser. Veremos tanto ejemplos existentes, como alguno creado para la ponencia. La librería, mediante algoritmos genéticos, es capaz de encontrar una topología efectiva para nuestra red neuronal, no necesitando nosotros investigar cual es la estructura más acertada para nuestro problema en concreto."
+  subtype: workshop
+  speakers: [1]
   language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/YbF8Q8LxAJs"
+  complexity: "Beginner"
 -
   id: 002
-  title: "Aplicando Machine Learning sobre imágenes para optimizar el transporte público"
-  description: "Mostraremos como las técnicas de machine learning aplicadas al procesamiento de imágenes pueden ser usadas para detectar densidades de gente en un área especifica para posteriormente evaluar frente a la frecuencia de los transportes públicos de la zona como podría llevarse a cabo una auto regulación automática de los mismos."
+  title: "Midiendo la Programación"
+  description: "Introducción a las estrategias de colaboración en startups. Introducción a diferentes estrategias de colaboración en git (PRs, git flow, rebase vs merge, cuándo commitear). Cómo entender, valorar y medir el trabajo cognitivo"
   subtype: keynote
   speakers: [2]
   language: es
   complexity: "Intermediate"
 -
   id: 003
-  title: "Diseño para programadores: las 100 cosas que siempre quisiste saber y no te atreviste a preguntar"
-  description: "Hay un GAP importante entre programadores y diseñadores. A los segundos se nos ha acusado siempre, cuando no teníamos una base sólida de programación, de no entender el entorno digital. Pero nunca he escuchado hablar sobre el otro problema, la falta de base sobre Diseño que tienen los profesionales técnicos. Llevo tiempo tratando de tender puentes y aunar lenguajes, en esta charla intentaré crear una visión sólida de algunos de los fundamentos del Diseño aplicado a proyectos digitales."
+  title: "Hands on Blockchain"
+  description: "“El valor del Bitcoin ya no es tan alto”. “En LinkedIn solo se ven ofertas de expertos en blockchain”. ¿Conocemos realmente como funciona? En esta charla se dará una introducción al Blockchain y se irá profundizando en sus bases hasta ejercicios prácticos con aplicaciones existentes. Se hará una demo en directo con un Full Node de Bitcoin montado sobre una RasperryPi y ejercicios prácticos para entender cómo funciona una transacción y cómo los mineros la minan."
   subtype: keynote
-  speakers: [8]
+  speakers: [3]
   language: es
-  complexity: "Intermediate" 
-  presentation: "https://www.evernote.com/pub/arketipo/malaga"
+  complexity: "Beginner" 
 -
   id: 004
-  title: "Some things you don’t know about Angular"
-  description: "In this talk I want to show some insights and things that people usually don't know about Angular."
-  subtype: keynote
+  title: "Desarrollo de aplicaciones móviles con Flutter"
+  description: "En este taller vamos a ver las características principales de este framework de desarrollo de aplicaciones móviles y desarrollaremos un ejemplo práctico que muestre el uso de los componentes básicos del Framework."
+  subtype: workshop
   speakers: [4]
   language: es
-  complexity: "Intermediate"
-  presentation: "http://slides.com/elecash/algunas-cosas-sobre-angular#/"
+  complexity: "Beginner"
 -
   id: 005
-  title: "Go from 0 to GO!"
-  subtype: workshop
-  speakers: [7]
+  title: "Victoria la Malagueña: El chatbot desarrollado con Dialogflow y NodeJS con el que hablar sobre Málaga"
+  subtype: keynote
+  speakers: [5]
   language: es
-  complexity: "Intermediate" 
-  description: '<b>Requisitos:</b><br>Tener Go instalado [<a href="https://golang.org/doc/install">aqui</a>]<br>Tener algun editor de texto o IDE instalado [<a href="https://www.jetbrains.com/go/">el de JetBrains recomendado</a>]<br><br>Workshop de GO desde 0… lo que de tiempo ;)<br><br><b>Contenido:</b><ul><li>Getting Started With Go</li><li>Errors</li><li>Concurrency</li><li>Testing</li><li>Package Management With Dep</li><li>Context</li><li>Building And Compiling Go Applications</li><li>Protocol Buffers</li><li>GRPC</li></ul>'
+  complexity: "Beginner" 
+  description: "Victoria la Malagueña es un chatbot desarrollado con la tecnología de Google Dialogflow con el que se puede dialogar sobre el Asistente de Google y Facebook. Da información de utilidad para ciudadanos y turistas utilizando principalmente información disponible en datosabiertos. En la charla se puede contar la evolución del chatbot y dar algunas ideas del proceso de desarrollo y de publicación en el Asistente de Google."
 -
   id: 006
-  title: "Inclusion in technology + Building your first chatbot with Actions on Google!"
-  description: "Amanda Cavallaro, a software developer who works at resolver.co.uk and is a Women Techmakers Lead and Community Organiser at GDG Cloud London will host a talk followed by codelabs on how to get started with building conversational bots. From creating a persona and finally we will learn how to  create a chatbot about a personality selected by you using Actions on Google and not a single line of code!"
-  subtype: keynote
-  speakers: [1]
-  language: es
-  complexity: "Intermediate"
-  presentation: "https://docs.google.com/presentation/d/1cbkLxO7V6rhI8kojSOFCkOQ-UDg_8vS7XhhPfd9SPL8/edit#slide=id.p"
--
-  id: 007
-  title: "¿Y si los robots nos pidieran ayuda?"
-  description: "Mucho se ha especulado de la inteligencia artificial y los robots autónomos en los últimos años. ¿Pero en qué estado nos encontramos realmente? ¿Dónde están todos esos super robots que nos han prometido? ¿Por qué no podemos vivir sólo con los roomba y con un par de drones?... <br><br>Desde hace tres años me dedico a la investigación en planificación automática y robótica. En esta charla quiero contaros las principales vías de investigación en IA y robótica en las que se está trabajando en el mundo universitario y los avances de las empresas punteras en robótica.<br><br>Hablaré, entre otras cosas de un concepto muy interesante: la colaboración entre humanos y robots, conocida como Symbiotic Autonomy. Por cierto, la investigadora que ideó el concepto se llama Manuela Veloso y es la fundadora de la Robocup, la liga internacional de robots que juegan al fútbol! Seguro que has visto miles de videos en Youtube sobre esa liga :)<br><br>Por otro lado hablaré de proyectos de investigación vigentes en la Unión Europea y Estados Unidos sobre robótica, también sobre las competiciones anuales y sus objetivos a corto plazo y de los avances de empresas como Boston Dynamics, Aldebaran Robotics o Reem-PAL robotics."
+  title: "7 tips de producto que te harán mejor desarrollador"
+  description: "Entender cómo una idea se convierte en un producto, y en qué punto interviene la tecnología es fundamental para poder crear algo valioso, reutilizable, evolucionable y funcional. Con siete sencillos consejos vas a conseguir que el software que desarrollas pase de bueno a excelente."
   subtype: keynote
   speakers: [6]
   language: es
-  complexity: "Intermediate"
-  presentation: "https://docs.google.com/presentation/d/1FAqE3p07DnwmzxCjhZYmTO7135znzq96M9P0qJN3LSU/edit?usp=sharing"
+  complexity: "Beginner"
+-
+  id: 007
+  title: "Creando videojuegos con Godot"  
+  description: "Introducción al motor de videojuegos, Godot Engine, para empezar a soñar nuevas aventuras e historias 2D o 3D en clave de open source."
+  subtype: workshop
+  speakers: [7]
+  language: es
+  complexity: "Beginner"
 -
   id: 008
-  title: "This is your captain speaking, please put your phone in airplane mode"
-  description: "Do you wonder how to improve the user experience of your web users? Why not allowing them to interact with your application even when they don't have a reliable network connection?
-In this live coding, we will see how to set a complete offline-first strategy using new APIs like service worker, background-sync, the cache API and IndexedDB"
+  title: "Why developers are a essential part of our product design process"
+  description: "When designers and developers work together, magic happens. Developers at Ontruck don't just build stuff based on design specs, they are involved in the design process from the very beginning. And you know what? They love it. In this talk I will share the lessons we've learned after two successful years building products this way.  "
   subtype: keynote
-  speakers: [10]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/vdsrw7lwvZY"
-  presentation: "http://slides.com/olivierleplus/offline-support-progressive-web-app-pwa-1/fullscreen#/"
+  speakers: [8]
+  language: es
+  complexity: "Beginner"
 -
   id: 009
-  title: "Offline-first sin despeinarte con Cloud Firestore"
-  description: "¿Harta de leer sobre los beneficios del offline-first y no saber ni por dónde empezar? En esta charla veremos la ultima novedad de Firebase: su nueva base de datos Cloud Firestore con la que ofrecer acceso offline a tus datos es pura automagia."
+  title: "Realidad Aumentada: desde la tecnología a la calidad de contenidos"
+  description: "Cada día aparecen más dispositivos hardware y plataformas software para crear proyectos de realidad aumentada, virtual y mixta. Estamos experimentando un cambio espectacular en la industria entonces, es un buen momento para desarrollar con esta tecnología, ¿no? Esta conferencia explora diferentes plataformas y herramientas para crear aplicaciones de realidad aumentada. Además quiere concienciar de la importancia de realizarlo desde un punto de vista de experiencia de usuario, poniendo como foco a las personas, y en la importancia de los contenidos."
   subtype: keynote
-  speakers: [13]
+  speakers: [9]
   language: es
-  complexity: "Intermediate"
+  complexity: "Beginner"
 -
   id: 010
-  title: "Enseña a hablar a tu app"
-  description: "Las interfaces conversaciones están en auge. Cada vez son más los que se suben al carro de la inteligencia artificial, asistentes y chatbots.<br>En esta charla aprenderemos cómo diseñar, desarrollar y distribuir una aplicación conversacional. Para ello usaremos la plataforma Actions on Google y nos ayudaremos de las herramientas Dialogflow y Cloud Functions para el desarrollo de la aplicación."
+  title: "Dando significado a la World wide web.¿Cómo desarrollar para todas las personas?"
+  description: 'Cuando desarrollamos un sitio web, uno de nuestros objetivos es que la experiencia de uso sea lo más satisfacoria posible, y los visitantes puedan conectarse de forma cómoda desde todo tipo de dispositivos. Pero ¿realmente estamos consiguiendo llegar a todo el mundo?<br>Al ahblar de accesibilidad en el desarrollo, casi siempre es para atragantar al desarrollador con un montón de reglas y recomendaciones abstractas y aburridas que a veces se le obliga a cumplir por no se qué dichosa ley... Pero sin entender el porqué y la importancia real, es algo que nunca acabará de calar en el ADN de los desarrolladores. ¿por qué ha de cumplirse? ¿a quién ayuda? ¿por qué es importante hacerlo así?<br>En esta charla os responderé a todas estas preguntas, y os proporcionaré las herramientas y las referencias necesarias no solo para que podáis abordar de forma efectiva un desarrollo accesible, sino también para que podáis comprobar si lo habéis hecho bien, utilizando las aplicaciones que usan los distintos perfiles de discapacidad.<br>«El poder de la web reside en su universalidad. El acceso para todos independientemente de su discapacidad es un aspecto fundamental» Tim Berners-Lee, director del W3C e inventor de la World Wide Web.<br>¿Os apetece ayudara construir una World Wide Web realmente inclusiva?'
   subtype: keynote
-  speakers: [5]
+  speakers: [10]
   language: es
   complexity: "Intermediate"
 -
   id: 011
-  title: "What's Flutter and why should you care?"
-  description: "Flutter is the new kid in town. Developed by Google, it's a new framework for creating mobile apps for Android and iOS. Let me convince you why it could be such a game changer and how exciting it is."
-  subtype: keynote
-  speakers: [9]
-  language: es
-  complexity: "Intermediate"
-  presentation: "https://www.slideshare.net/sergiandreplace/what-is-flutter-and-why-should-i-care-82802755"
--
-  id: 012
-  title: "Arquitectura de Angular en el servidor: NestJS"
-  description: "Nest es un framework para construir aplicaciones web eficientes y escalares usando nodeJS el cual es construido sobre TypeScript con la arquitectura de diseño de software aplicada por Angular. Para ello se dispone de conceptos como controladores, modelos, middlewares, pipes, guardas, interceptores, inyección de dependencia, pruebas unitarias y e2e."
-  subtype: keynote
-  speakers: [15, 16]
-  language: es
-  complexity: "Intermediate"
-  presentation: "https://caballerog.github.io/devfestmalaga2017/slides/index.html"
--
-  id: 013
-  title: "¡Refactoriza tu vida!"
-  description: "Mejorando nuestro código, desde variables hasta Clases, y aplicando la empatía."
-  subtype: keynote
-  speakers: [14]
-  language: es
-  complexity: "Intermediate"
-  presentation: "https://docs.google.com/presentation/d/1VJvrU4b4t6SZjElieOHbFxuN7BK9TxQd5VxUcUAsboA/"
--
-  id: 014
-  title: "A (data) stream full of phish: Procesamiento de Eventos Complejos para detectar de amenazas de seguridad"
-  description: "Aunque el Procesamiento de Eventos Complejos no es una tecnología tan mainstream como Big Data o Machine Learning, está detras de muchos procesos analíticos en campos como las finanzas, el social media e IoT. Es más, hay otros campos perfectos para el análisis de grandes flujos heterogeneos de datos donde no se han explorados sus virtudes, y uno de ellos es la seguridad de la información.<br><br>Durante la charla veremos qué es eso del Procesamiento de Eventos Complejos, como podemos usarlo a través de una arquitectura Orientada a Servicios y Dirigida por Eventos y finalmente su aplicación al campo de la seguridad, dandole por el camino una vuelta de tuerca a problemas tan antiguos como el fraude online, entre otras amenazas."
-  subtype: keynote
-  speakers: [17]
-  language: es
-  complexity: "Intermediate"
--
-  id: 015
-  title: "GitHub: la única red social que necesitas"
-  description: "En esta charla cuento cómo sacar provecho a GitHub, cómo me ayudó a ser un mejor desarrollador y a conocer gente con las mismas inquietudes que yo."
-  subtype: keynote
-  speakers: [18]
-  language: es
-  complexity: "Intermediate"
--
-  id: 016
-  title: "Desarrollo y despliegue continuo con microservicios"
-  description: "La complejidad del sistema que desarrollamos en seedtag nos ha llevado a evolucionar de un sistema monolítico a uno compuesto por microservicios. En esta charla hablaré de cómo hemos adaptado nuestro flujo de desarrollo para simplificar nuestros entornos y cómo hemos ido integrando todo para tener nuestro sistema de despliegue continuo con Jenkins y Kubernetes."
-  subtype: keynote
+  title: "Android, desde el lado del mal"
+  description: "Exposición de una aplicación Android creada con servicios y frameworks proporcionados por Microsoft. Concretamente, enseñaré código real de producción de una aplicación Android hecha con Xamarin y con un backend funcionando en Azure."
+  subtype: workshop
   speakers: [11]
   language: es
   complexity: "Intermediate"
-  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 012
+  title: "A strongly typed martini. Shaken, not stirred"
+  description: "Luckily I asked for it shaken. But what if we didn't??? How can we make sure that we get our refined drink? How can we prove that property? In a beginner-friendly way, we introduce you to LiquidHaskell (LH), a Haskell extension that allows us to distill our types to assure stronger guarantees of our code at compile-time. We start with a quick, hands-on approach to Haskell, introducing the basics so no one gets lost. Then, we deep dive into LiquidHaskell to get our hands dirty. Through plenty of tiny exercises, we see what refinement types are, how they can help us write safer code and prove that we get the drink we ordered."
+  subtype: workshop
+  speakers: [12]
+  language: es
+  complexity: "Beginner"
+-
+  id: 013
+  title: "Innovación en ciberseguridad, betatesters forzosos de la tecnología emergente"
+  description: "Trabajar en innovación, no solo implica ser de los primeros en trabajar con las tecnologías emergentes, sino ser capaz de diseccionarlas y exprimirlas hasta el punto en que es posible contribuir a su desarrollo e incluso explotarlas para construir a su vez otras nuevas. Con frecuencia, muchas de estas tecnologías acabarán en el cajón del olvido y con otras, la única documentación disponible, será la procedente de nuestro trabajo de reversing. En cualquier caso, el resultado, siempre es el mismo, aprendizaje y diversion asegurada. En esta charla se hará un breve repaso a algunas de las últimas tecnologías en materia de ciberseguridad y alguna de anécdotas y curiosidades surgidas durante su investigación."
+  subtype: keynote
+  speakers: [13]
+  language: es
+  complexity: "Intermediate"

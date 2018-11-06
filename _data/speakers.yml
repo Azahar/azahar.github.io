@@ -1,192 +1,106 @@
 - 
   id: 1
-  name: "Amanda"
-  surname: "Cavallaro"
-  company: "GDG Cloud London"
-  title: "Computer Scientist"
-  bio: '<p>Amanda is a computer scientist who can speak four languages and loves chatbots. The most inspiring geek book she has ever read is Ready Player One by Ernest Cline. During her free time she is an aikidoka, a volunteer organiser at GDG Cloud / WTM London, she loves to attend tech meetups and to work on her own personal projects to practice different programming languages. This is she singing in four languages https://goo.gl/iSfcjF her singing skills are rather disappointing, though. If she was a type of music she would definitely be a Power Metal song. Amanda is a spontaneous person who tries her best to help everyone around her, and when she likes the cause, she will not rest until she can help you. Sometimes she takes her life is at maximum speed such as the song Destruction Preventer and some other times she is complaining about the cold in a mood similar to the song The Misery. She is a big fan of the Finnish band Sonata Arctica, and these two songs are theirs by the way.</p>'
-  thumbnailUrl: Amanda.jpg
+  name: "Jairo"
+  surname: "Caro"
+  thumbnailUrl: Jairo_caro.jpeg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/chibichibibr"}
+    - {name: "twitter", link: "https://twitter.com/kidandcat"}
 - 
   id: 2
-  name: "Inés"
-  surname: "Huertas"
-  company: "Datatons"
-  title: "Data Scientist"
-  bio: '<p>Data Scientist y cofundadora de Datatons (www.datatons.com), Ex-Sysadmin y enamorada de los datos, desarrolla proyectos de analítica sobre plataforma Hadoop no solo enfocado en el tratamiento dato sino también en la parte del diseño dada su experiencia en la administración de sistemas Big Data. Actualmente participa también como coorganizadora del grupo de R-ladies Madrid y el meetup de Big Data Madrid intentando generar una comunidad donde todo el mundo que tenga interés pueda participar e iniciarse en el mundo de los datos.</p>'
-  thumbnailUrl: InesHuertas.jpg
+  name: "Jesús"
+  surname: "Rivera"
+  thumbnailUrl: "Jesus_Rivera.jpg"
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/quierodata"}
+    - {name: "twitter", link: "https://twitter.com/jsdariorivera"}
 - 
   id: 3
-  name: "Hadi"
-  surname: "Hariri"
-  company: "JetBrains"
-  title: "VP of Developer Advocacy"
-  bio: '<p>Developer and creator of many things OSS, his passions includes Web Development and Software Architecture. Has authored a couple of books, a few courses and has been speaking at industry events for over 15 years. Host to Talking Kotlin, he works at JetBrains leading the Developer Advocacy team, and spends as much time as he can writing code.</p>'
-  thumbnailUrl: HadiHariri.png
+  name: "Antonio"
+  surname: "Moreno"
+  thumbnailUrl: Antonio_moreno.png
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/hhariri"}
+    - {name: "twitter", link: "https://twitter.com/nito__moreno"}
 
 - 
   id: 4
-  name: "Raúl"
-  surname: "Jiménez"
-  company: "Byte Default"
-  title: "Google Developer Expert & Software Engineer"
-  bio: "<p>Raul is a software engineer passionate about JS frameworks, web technologies and cross-platform development. Since 2012 he's focused in Angular, HTML5 video and his open source project Videogular.
-<br>Raul works as a freelance front-end architect for companies around the world helping them to build high-performance web apps. In his spare time he's usually involved in local meetups, writing blog posts, speaking at conferences and contributing to open source projects.
-<br>He lives in Barcelona and is happy by default</p>"
-  thumbnailUrl: RaulJimenez.jpg
+  name: "Jose Manuel"
+  surname: "Márquez"
+  thumbnailUrl: Jose_Markez.jpeg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/elecash"}
+    - {name: "twitter", link: "https://twitter.com/jm_markez"}
 - 
   id: 5
-  name: "Jorge"
-  surname: "del Casar"
-  company: "Kairós DS"
-  title: "Head of Development"
-  bio: '<p>Jorge del Casar es Desarrollador Frontend con 15 años de experiencia y trabaja como Head of Development en Kairós Digital Solutions. Desde sus comienzos ha sido un entusiasta de los estándares y la accesibilidad. En 2009 empezó a interesarse en Javascript y desde hace más de 2 años desarrolla y defiende los Web Components y Polymer. Es Google Developer Expert en Web Technologies y miembro del Technical Advisory Group de Microsoft.</p>'
-  thumbnailUrl: JorgeCasar.png
+  name: "David"
+  surname: "Bueno Vallejo"
+  thumbnailUrl: David_Bueno.jpeg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/JorgeCasar"}
+    - {name: "twitter", link: "https://twitter.com/davidbuenov"}
 - 
   id: 6
-  name: "Nerea"
-  surname: "Luis"
-  company: "UC3M"
-  title: "PhD Studend"
-  bio: '<p>PhD student on Artificial Intelligence and Robotics. I belong to PLG research group at UC3M. I am a Women-techmaker/anita borg scholar since 2016. Interested in robots, automated planning and AI. I am the t3chfest cofounder.</p>'
-  thumbnailUrl: NereaLuis.jpg
+  name: "Carlos"
+  surname: "Hernández"
+  thumbnailUrl: Carlos_Hernandez.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/sailormercury91"}
+    - {name: "twitter", link: "https://twitter.com/CodingCarlos"}
 - 
   id: 7
-  name: "Alberto"
-  surname: "Gutiérrez"
-  company: "RedHat"
-  title: "Middleware Developer"
-  bio: '<p>Software Engineer in RedHat working in ManageIQ Project and Middleware with RoR, Go and angular. With more than 3 years of professional experience like SysAdmin (Hadoop certified, CloudForms) and Developer (Microservices in Go, OpenStack certified), working in opensource projects and organizer of GDGCloud Madrid.</p>'
-  thumbnailUrl: AlbertoGutierrez.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/aljesusg"}
-- 
-  id: 8
-  name: "Diego"
-  surname: "Rodríguez"
-  company: "Lynda.com"
-  title: "Diseñador"
-  bio: '<p>Diseñador de cosas analógicas o digitales siempre en movimiento. Promoviendo un entorno tecnológico en Bilbao a través de elComité. Además de escribiendo un libro sobre Nuevas Profesiones Digitales.</p>'
-  thumbnailUrl: DiegoRodriguez.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/arketipo"}
-- 
-  id: 9
-  name: "Sergi"
-  surname: "Martínez"
-  company: "Schibsted Spain"
-  title: "Android GDE and Developer"
-  bio: '<p>Android GDE and dev at Schibsted Spain. Loving to learn things and share knowledge.</p>'
-  thumbnailUrl: SergiMartinez.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/sergiandreplace"}
-- 
-  id: 10
-  name: "Olivier"
-  surname: "Leplus"
-  company: ""
-  title: "Web Developer & Former DevRel @ Google"
-  bio: '<p>Web developer & Traveler. My day to day my mission is to help developers create successful and quality apps. As a passionate web developer, I am always discovering and playing with new web technologies!. Formerly part of the Developer Relationship team at Google.</p>'
-  thumbnailUrl: OlivierLeplus.png
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/olivierleplus"}
-- 
-  id: 11
-  name: "Laura"
-  surname: "Morillo-Velarde"
-  company: "Seedtag"
-  title: "Backend engineer"
-  bio: '<p>Backend Engineer en seedtag. Ha peleado con muchas tecnologías desde C++ a Javascript y a a ratos lidia con servidores. En su tiempo libre además organiza meetups para el GDG Madrid y para grupos en los que promueve la mayor participación de las mujeres en tecnología (AgileGirls y Tech&Ladies).</p>'
-  thumbnailUrl: LauraMorillo.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/laura_morillo"}
-- 
-  id: 13
-  name: "Kike"
-  surname: "Navalon"
-  company: "BICG"
-  title: "Technical Product Manager & JS Developer"
-  bio: '<p>Ingeniero de teleco enamorado de las tecnologías web y cloud, con especial amor por las APIs, las automatizaciones y el real-time. Intenté hacer un doctorado pero me tiran más los proyectos reales y dinámicos. Dejé mi trabajo para empezar mi startup, que no fue exactamente como estaba planeada… Actualmente trabajo y me divierto en BICG y gasto lo que me queda de tiempo en meetups, hackathones y hablar de tecnología con el primero que pasa por la calle.</p>'
-  thumbnailUrl: KikeNavalon.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/garcianavalon"}
-- 
-  id: 14
   name: "Elena"
-  surname: "Guzmán Blanco"
-  company: "Freelance"
-  title: "Developer"
-  bio: '<p>storyteller, worldbuilder, crossplatform developer (C# and Android), ttrpg player</p>'
-  thumbnailUrl: ElenaGuzman.jpeg
+  surname: "Guzmán"
+  thumbnailUrl: Elena_Guzman.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/Beelzenef_"}
 - 
-  id: 15
+  id: 8
   name: "Carlos"
-  surname: "Caballero"
-  company: "UMA"
-  title: "Doctor en informática "
-  bio: '<p>Ingeniero y Doctor en Informática por la Universidad de Málaga. Es profesor en la UOC y  la Junta de Andalucía en la familia profesional de Informática y Telecomunicaciones. Ha escrito varios libros docentes y más de una decena de artículos de investigación en inteligencia artificial y física solar.
-Amante de la Ingeniería Informática que trata de transmitir este amor por esta ciencia cada día desde las escuelas.</p>'
-  thumbnailUrl: CarlosCaballero.jpg
+  surname: "Sánchez"
+  thumbnailUrl: Carlos_Sanchez.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/Carlillo"}
-    - {name: "github", link: "https://github.com/Caballerog"}
+    - {name: "twitter", link: "https://twitter.com/chocotuits"}
 - 
-  id: 16
-  name: "Antonio"
-  surname: "Villena"
-  company: "UMA"
-  title: "Estudiante"
-  bio: '<p>Titulado en Grado Superior de Desarrollo de Aplicaciones web y actualmente cursando el Grado de Ingeniería del Software. Apasionado de Angular, Typescript, nodeJS y Go. Apostando por las nuevas tecnologías y arquitecturas. En continuo aprendizaje.</p>'
-  thumbnailUrl: AntonioVillena.jpg
+  id: 9
+  name: "Cynthia"
+  surname: "Gálvez"
+  thumbnailUrl: cynthia_galvez.jpg
   rockstar: true
   social:
-    - {name: "github", link: "https://github.com/xxxtonixxx"}
+    - {name: "twitter", link: "https://twitter.com/icynthia"}
 - 
-  id: 17
-  name: "Francisco"
-  surname: "López"
-  company: "Hispasec/Koodus"
-  title: "Systems Engineer "
-  bio: '<p>Francisco es un Ingeniero de Sistemas con 8 años de experiencia en el campo de la seguridad de la información. Interesado en procesos de DevOps, arquitectura de sistemas, Automatización y obtener métricas de todo lo posible. Actualmente ocupa el puesto de coordinador del area de investigación y desarrollo de Hispasec Sistemas y forma parte del equipo del proyecto Koodous, una plataforma colaborativa de análisis de malware para Android, seleccionada para el Black Hat Arsenal (USA y EU) y el programa Campus Exchange: CyberSecurity organizado por Google en Tel-Aviv.</p>'
-  thumbnailUrl: PacoLopez.jpg
+  id: 10
+  name: "Juanjo"
+  surname: "Montiel"
+  thumbnailUrl: juanjo_montiel.jpeg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/zisk0"}
+    - {name: "twitter", link: "https://twitter.com/kastwe"}
 - 
-  id: 18
-  name: "Israel"
-  surname: "Blancas"
-  company: "Real Time Innovations"
-  title: "Software engineer"
-  bio: '<p>Software Engineer at @RealTimeInnov. Lead organizer at Google Developer Group @GDGgranada</p>'
-  thumbnailUrl: IsraelBlancas.jpg
+  id: 11
+  name: "Darío"
+  surname: "Alonso"
+  thumbnailUrl: dario_alonso.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/iblancasa"}
+    - {name: "twitter", link: "https://twitter.com/dariovillar"}
+- 
+  id: 12
+  name: "Adrián"
+  surname: "González"
+  company: "BICG"
+  thumbnailUrl: Adrian_Gonzalez.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/adriangonzl"}
+- 
+  id: 13
+  name: "Jose"
+  surname: "Torres"
+  thumbnailUrl: Jose_Torres.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/jose7orres"}

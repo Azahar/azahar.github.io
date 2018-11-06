@@ -21,4 +21,5 @@
   elements: 
     - {name: "GDG Málaga", description: "GDG Málaga", link: "https://www.meetup.com/es-ES/Google-Developer-Group-Malaga/", imageUrl: "gdg-malaga.png"}
     - {name: "Codespace", description: "Codespace", link: "https://www.codespaceacademy.com/", imageUrl: "codespace.png"}
+    - {name: "Yeti", description: "Yeti", link: "https://getyeti.co/", imageUrl: "yeti.png"}
 
