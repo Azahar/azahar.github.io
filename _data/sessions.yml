@@ -20,7 +20,7 @@
   description: "Veremos como usar una librería de Machine Learning escrita en Javascript, usable tanto en NodeJS como en Browser. Veremos tanto ejemplos existentes, como alguno creado para la ponencia. La librería, mediante algoritmos genéticos, es capaz de encontrar una topología efectiva para nuestra red neuronal, no necesitando nosotros investigar cual es la estructura más acertada para nuestro problema en concreto."
   subtype: workshop
   speakers: [1]
-  language: en
+  language: es
   complexity: "Beginner"
 -
   id: 002
